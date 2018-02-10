@@ -1,0 +1,150 @@
+# TCG's Chill Pack 3  
+## Changelog  
+
+### Alpha 0.0.1
+Mods Added:  
+- Actually Additions  
+- Advanced Generators  
+- Advanced Rocketry  
+- AE2 Stuff  
+- Angel Ring To Bauble  
+- Applied Energistics 2  
+- Aroma1997Core  
+- Baubles  
+- BdLib  
+- Bed Bugs  
+- Better Builder's Wands  
+- BiblioCraft  
+- Biomes O' Plenty  
+- Bookshelf  
+- Botania  
+- Brandon's Core  
+- Buildcraft  
+- Buildcraft Compat
+- Chance Cubes  
+- Chest Transporter  
+- Chicken Chunks 1.8+  
+- Chisel  
+- Chisel & Bits  
+- CodeChicken Lib 1.8+  
+- CoFH Core  
+- CoFH World  
+- ComputerCraft  
+- ConnectedTexturesMod  
+- Cooking for Blockheads  
+- CraftTweaker  
+- Cucumber  
+- Custom Main Menu  
+- Dark Utilities  
+- DecoCraft2  
+- Draconic Evolution  
+- Ender Pay  
+- Ender Storage 1.8+  
+- Ender Zoo  
+- Environmental Tech  
+- ET Lunar [Environmental Tech Addon]  
+- Extra Utilities  
+- ExtraCells2  
+- Extreme Reactors  
+- Flat Colored Blocks  
+- Forestry  
+- FTB Utilities  
+- FTBLib  
+- Gendustry  
+- GraveStone Mod  
+- Hammer Core  
+- Hopper Ducts  
+- Hwyla  
+- Immersive Engineering  
+- Immersive Petroleum  
+- ImmersiveEngineering-0.12-76-core  
+- Industrial Craft  
+- Inventory Tweaks  
+- Iron Backpacks  
+- Iron Chests  
+- Iron Tanks  
+- JEI Bees  
+- JourneyMap  
+- Just Enough Items (JEI)  
+- KleeSlabs  
+- LibVulpes  
+- MalisisCore  
+- MalisisDoors  
+- Mantle  
+- McJtyLib  
+- Mekanism  
+- Mekanism Generators  
+- Mekanism Tools  
+- ModTweaker  
+- Morpheus  
+- Mouse Tweaks  
+- MTLib  
+- Mystical Agriculture  
+- Natura  
+- OMLib  
+- OpenBlocks  
+- OpenBlocks Elevator  
+- OpenComputers  
+- OpenModsLib  
+- OpenModularTurrets  
+- p455w0rd's Library  
+- Pam's HarvestCraft  
+- Platforms  
+- Random Things  
+- ReAuth  
+- Redstone Arsenal  
+- Redstone Flux  
+- Redstone Paste  
+- Resource Loader  
+- RFTools  
+- RFTools Control  
+- RFTools Dimensions  
+- ShetiPhianCore  
+- Simply Jetpacks 2  
+- Solar Flux Reborn  
+- Storage Drawers  
+- Storage Drawers Extras  
+- Thermal Dynamics  
+- Thermal Expansion  
+- Thermal Foundation  
+- Tinkers Construct  
+- Tinkers' Tool Leveling  
+- Tiny Progressions  
+- UniDict  
+- ValkyrieLib  
+- VeinMiner  
+- WanionLib  
+- Waystones  
+- Wireless Crafting Terminal  
+- ZeroCore  
+
+Mods Removed  
+N/A  
+
+Updated:  
+N/A
+
+Configs Changed:  
+- Set the Advanced Rocketry jetpack to work only in low gravity planets  
+- Changed PowerUnit in AppliedEnergistics 2 to RF, set search to AUTOSEARCH_KEEP, changed oreDoublePercentage to 95, disabled version checking  
+- Enabled lava lakes in mining dimension, enabled water lakes, added a default welcome message, enabled the spawning of AMBIENT, CREATURE, and WATER_CREATURE mobs in the mining dimension, disabled generation of villages in the mining world, increased the oreGenMultiplier from 1 to 5, increased the world height to 80  
+- Set Biomes O' Plenty to require shears for flower drops, set default world type to BoP  
+- Disabled loud celestial manipulator, disabled crafting of chance cubes, d20s have a chance value between -100 and 100, adjusted falling block drop height to 80, changed the maximum range chance value to 80, halved the amount of uses from a pendant  
+- Set RedStone Arsenal explosions to destroy blocks  
+- Set Thermal Dynamics covers to be shown in JEI  
+- Enabled EnableFlatBedrock in CoFH World  
+- Disabled mobs spawning in elevators in OpenBlock Elevators  
+- Increased max reactor height to 96, increased max reactor size in x/z to 64, disabled registering of yellorium as uranium, enabled the requirement for hardened reactor glass, doubled the turbine dimenions, disabled anglesite and benitoite, enabled worldgen in mining dimension as well as overworld  
+- Set UniDict to keep only one entry per ore dict entry  
+- Increased veinminer hunger modifier to 5  
+- Disabled update checks for Actually Additions  
+- Disabled chest transporters from being able to pick up mob spawners  
+- Set ChickenChunk loaders away timeout to 30 minutes from last login, enabled OP interaction  
+- Set deathnotes to be destroyed after retrieving grave, locked graves to owners only  
+- Disabled notification of in-game wiki mod from mods that support it  
+- Disabled modification of vanilla doors in MalisisDoors  
+- Disabled voice server in Mekanism
+- Set the redstone paste recipe to be shaped
+- Set exact fuel amounts to show in Simply Jetpacks 2 hud, enabled vanilla-based jetpacks  
+- Enabled waystones to only be renamed by owner, set cooldown to 150 seconds for teleport button and warpstone, enabled teleport button, enabled blocks per level xp requirement, enalbed xp requirement for warpstone
+- Disabled crafting of infinity booster card, disabled endermen dropping infinity booster  
